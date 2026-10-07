@@ -1,16 +1,13 @@
-## Hi there 👋
-
+## Hi there 👋 Welcome to Bunbinkbliss
 <!--
-**Bunbinkbliss/Bunbinkbliss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bunbinkbliss** is India's cutest online Kawaii shop that brings asthetic collectibles directly to fans nationwide. 
+### 🛍️ Explore Our Shop & Community
+* **Official Store:** [Shop Latest Kawaii Merch](https://bunbinkbliss.in/)
+* **Customer Proof:** [Read Bunbinkbliss Customer Reviews](https://bunbinkbliss.in/reviews-of-bunbinkbliss/)
+### 💖 What We Stock
+* **Sanrio Finds:** Hello Kitty, Kuromi related stuff.
+* **Studio Ghibli:** Ghibli movies inspired items from *My Neighbor Totoro*, *Spirited Away*, and *Howl's Moving Castle*.
+* **Character Collectibles:** Blind boxes, plushies, and gift hampers featuring **Miffy**, **Snoopy**, and **Shin Chan**.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*Delivering joy across India with 24–48 hour dispatch and secure shipping and online payments*
